@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cat Food</string>
+    <string name="bt_about">About</string>
+    <string name="bt_list_product">List of Product</string>
+    <string name="bt_login_activity">Login</string>
+    <string name="cat_name_one">Cat</string>
+    <string name="cat_name_two">Food</string>
+    <string name="name_of_developer">Nikolskay Kristina</string>
+    <string name="email_of_developer">nik.kristina13@gmail.com</string>
+    <string name="name_of_school">IT School 2019</string>
+    <string name="hashtag_of_school">#iwantoit</string>
+    <string name="example_product">Product</string>
+    <string name="bt_list_category">Category</string>
+</resources>
